@@ -56,4 +56,3 @@ nextButton.addEventListener("click", nextBtn);
 const previousButton = document.querySelector("#previous");
 previousButton.addEventListener("click", previousBtn);
 
-
